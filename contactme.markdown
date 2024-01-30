@@ -4,8 +4,6 @@ title: Contact Me
 permalink: /contact-me/
 ---
 
-Contact Me:
-
 My Contact Info is as follows:
 
 Email: jadon.techservices@proton.me
