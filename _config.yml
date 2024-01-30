@@ -23,6 +23,8 @@ domain: jadons-techservices.github.io
 baseurl: "jadons-techservices" # the subpath of your site, e.g. /blog
 url: "https//jadons-techservices.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: MadlyJado
+description: "Jadon's Tech Services is a small business created by Jadon Chenard, who saw how the prices of repairs could be made into a much
+              cheaper and transparent process"
 
 # Build settings
 theme: minima
