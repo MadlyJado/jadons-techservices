@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jadon's Tech Services
-domain: jadonc-techservices.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+domain: jadons-techservices.github.io
+baseurl: "jadons-techservices" # the subpath of your site, e.g. /blog
 url: "https//jadons-techservices.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: MadlyJado
 
