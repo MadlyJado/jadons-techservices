@@ -7,7 +7,9 @@ permalink: /services/
 The services I offer are as follows:
 
 Setup for Computers & Tablets: $20
+
 Setup for New Devices: $20
+
 Hard Disk Drive to Solid State Drive Upgrade: Choose which type of SSD you wish to have.
 
 When considering SSDs, there are two main types: SATA SSDs and M.2 SSDs.
